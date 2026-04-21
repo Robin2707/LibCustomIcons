@@ -102,3 +102,4 @@ a["@GoldenCrowned"] = {"LibCustomIcons/icons/misc8/GoldenCrowned_anim.dds", 6, 1
 a["@alaric1804"] = {"LibCustomIcons/icons/misc8/alaric1804_anim.dds", 12, 4, 50}
 a["@Lilarna"] = {"LibCustomIcons/icons/misc8/Lilarna_anim.dds", 10, 5, 50}
 s["@InWater1021"] = "LibCustomIcons/icons/misc8/InWater1021.dds"
+a["@yztrash"] = {"LibCustomIcons/icons/misc8/yz_anim.dds", 11, 16, 33}
