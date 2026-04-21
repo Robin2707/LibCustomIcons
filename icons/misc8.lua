@@ -23,6 +23,7 @@ s["@Freddingerz"] = "LibCustomIcons/icons/misc8/Freddingerz.dds"
 s["@Senfkorn"] = "LibCustomIcons/icons/misc8/Senfkorn.dds"
 a["@ClothFollow1"] = {"LibCustomIcons/icons/misc8/ClothFollow1_anim.dds", 6, 6, 25}
 a["@Paaatchy"] = {"LibCustomIcons/icons/misc8/Paaatchy_anim.dds", 6, 6, 12}
+s["@Gofure24816"] = "LibCustomIcons/icons/misc8/Gofure.dds"
 a["@DeadHistory"] = {"LibCustomIcons/icons/misc8/DeadHistory_anim.dds", 43, 1, 20}
 s["@NierielSootica"] = "LibCustomIcons/icons/misc8/NierielSootica.dds"
 a["@EviceratorN"] = {"LibCustomIcons/icons/misc8/EviceratorN_anim.dds", 12, 4, 20}
