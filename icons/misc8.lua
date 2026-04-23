@@ -99,6 +99,7 @@ a["@LillyxHaze"] = {"LibCustomIcons/icons/misc8/LillyxHaze_anim.dds", 13, 2, 5}
 a["@lnfinty"] = {"LibCustomIcons/icons/misc8/lnfinty_anim.dds", 15, 3, 20}
 a["@Sora_renewed"] = {"LibCustomIcons/icons/misc8/Sora_renewed_anim.dds", 12, 1, 10}
 a["@GoldenCrowned"] = {"LibCustomIcons/icons/misc8/GoldenCrowned_anim.dds", 6, 1, 20}
+s["@R3nTeXx"] = "LibCustomIcons/icons/misc8/R3nTeXx.dds"
 a["@alaric1804"] = {"LibCustomIcons/icons/misc8/alaric1804_anim.dds", 12, 4, 50}
 a["@Lilarna"] = {"LibCustomIcons/icons/misc8/Lilarna_anim.dds", 10, 5, 50}
 s["@InWater1021"] = "LibCustomIcons/icons/misc8/InWater1021.dds"
