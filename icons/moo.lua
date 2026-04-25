@@ -51,6 +51,7 @@ s["@Hunterial"] = "LibCustomIcons/icons/moo/Hunterial.dds"
 s["@Ryvendur"] = "LibCustomIcons/icons/moo/Ryvendur.dds"
 s["@Eco_212"] = "LibCustomIcons/icons/moo/Eco_212.dds"
 s["@Mobitor"] = "LibCustomIcons/icons/moo/Mobitor.dds"
+a["@Im5HEAD"] = {"LibCustomIcons/icons/moo/Im5HEAD_anim2.dds", 17, 2, 10}
 s["@User7Gaming"] = "LibCustomIcons/icons/moo/User7Gaming.dds"
 s["@Protossyder"] = "LibCustomIcons/icons/moo/Protossyder.dds"
 s["@Regenbogenman"] = "esoui/art/icons/ability_templar_recovery.dds"
