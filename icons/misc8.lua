@@ -108,6 +108,7 @@ s["@InWater1021"] = "LibCustomIcons/icons/misc8/InWater1021.dds"
 a["@yztrash"] = {"LibCustomIcons/icons/misc8/yz_anim.dds", 11, 16, 33}
 s["@Freyney"] = "LibCustomIcons/icons/misc8/little_pills.dds"
 a["@Freyney"] = {"LibCustomIcons/icons/misc8/little_pills_anim.dds", 4, 1, 6}
+s["@Cxdie"] = "LibCustomIcons/icons/misc8/Cxdie.dds"
 s["@pururumka"] = "LibCustomIcons/icons/misc8/pururum.dds"
 s["@Magic-Zack"] = "LibCustomIcons/icons/misc8/MagicZack.dds"
 a["@jwill2theizzay"] = {"LibCustomIcons/icons/misc8/jwill2theizzay_anim.dds", 23, 1, 26}
