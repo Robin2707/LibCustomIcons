@@ -109,3 +109,7 @@ a["@yztrash"] = {"LibCustomIcons/icons/misc8/yz_anim.dds", 11, 16, 33}
 s["@Freyney"] = "LibCustomIcons/icons/misc8/little_pills.dds"
 a["@Freyney"] = {"LibCustomIcons/icons/misc8/little_pills_anim.dds", 4, 1, 6}
 s["@pururumka"] = "LibCustomIcons/icons/misc8/pururum.dds"
+s["@Magic-Zack"] = "LibCustomIcons/icons/misc8/MagicZack.dds"
+a["@jwill2theizzay"] = {"LibCustomIcons/icons/misc8/jwill2theizzay_anim.dds", 23, 1, 26}
+a["@Trouble13691"] = {"LibCustomIcons/icons/misc8/Trouble13691_anim.dds", 7, 7, 16}
+s["@Mushki"] = "LibCustomIcons/icons/misc8/Mushki.dds"
