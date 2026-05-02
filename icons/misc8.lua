@@ -115,3 +115,6 @@ a["@jwill2theizzay"] = {"LibCustomIcons/icons/misc8/jwill2theizzay_anim.dds", 23
 a["@Trouble13691"] = {"LibCustomIcons/icons/misc8/Trouble13691_anim.dds", 7, 7, 16}
 s["@Mushki"] = "LibCustomIcons/icons/misc8/Mushki.dds"
 s["@K.YChen"] = "LibCustomIcons/icons/misc8/KYChen.dds"
+a["@TetsuNoKirai"] = {"LibCustomIcons/icons/misc8/TetsuNoKirai.dds", 32, 1, 10}
+s["@Mittrik"] = "LibCustomIcons/icons/misc8/mittrik.dds"
+s["@El_Prezz"] = "LibCustomIcons/icons/misc8/ElPrez.dds"
