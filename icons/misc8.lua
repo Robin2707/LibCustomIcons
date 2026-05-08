@@ -122,3 +122,4 @@ s["@NeSatoshi"] = "LibCustomIcons/icons/misc8/nesatoshi.dds"
 s["@Silmaxa"] = "LibCustomIcons/icons/misc8/Silmaxa.dds"
 a["@drawsheichou"] = {"LibCustomIcons/icons/misc8/stellarringer_anim.dds", 11, 5, 9}
 s["@mak1racle"] = "LibCustomIcons/icons/misc8/mak1racle.dds"
+s["@duvvel"] = "LibCustomIcons/icons/misc8/duvvel.dds"
