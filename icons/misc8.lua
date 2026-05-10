@@ -123,3 +123,7 @@ s["@Silmaxa"] = "LibCustomIcons/icons/misc8/Silmaxa.dds"
 a["@drawsheichou"] = {"LibCustomIcons/icons/misc8/stellarringer_anim.dds", 11, 5, 9}
 s["@mak1racle"] = "LibCustomIcons/icons/misc8/mak1racle.dds"
 s["@duvvel"] = "LibCustomIcons/icons/misc8/duvvel.dds"
+s["@lil-stinkyy"] = "LibCustomIcons/icons/misc8/lil-stinkyy.dds"
+a["@ALL4VET"] = {"LibCustomIcons/icons/misc8/ALL4VET_anim.dds", 15, 3, 10}
+--s["@Adoring"] = "LibCustomIcons/icons/misc8/Adoring.dds"
+a["@ArhonFiresoul"] = {"LibCustomIcons/icons/misc8/ArhonFiresoul_anim.dds", 7, 7, 10}
