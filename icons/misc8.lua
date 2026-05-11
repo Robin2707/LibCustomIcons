@@ -127,3 +127,5 @@ s["@lil-stinkyy"] = "LibCustomIcons/icons/misc8/lil-stinkyy.dds"
 a["@IMPXRIVM"] = {"LibCustomIcons/icons/misc8/IMPXRIVM_anim.dds", 15, 3, 10}
 --s["@Adoring"] = "LibCustomIcons/icons/misc8/Adoring.dds"
 a["@ArhonFiresoul"] = {"LibCustomIcons/icons/misc8/ArhonFiresoul_anim.dds", 7, 7, 10}
+a["@GoridoTF2"] = {"LibCustomIcons/icons/misc8/GoridoTF2_anim.dds", 17, 2, 10}
+a["@MichaelOfPie"] = {"LibCustomIcons/icons/misc8/MichaelOfPie_anim.dds", 11, 3, 10}
